@@ -1,0 +1,20 @@
+﻿  game.cpp
+C:\Users\lomin\Desktop\game\game\game\game.cpp(29,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\lomin\Desktop\game\game\game\game.cpp(30,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\lomin\Desktop\game\game\game\game.cpp(32,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lomin\Desktop\game\game\game\game.cpp(33,33): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lomin\Desktop\game\game\game\game.cpp(60,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\lomin\Desktop\game\game\game\game.cpp(68,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lomin\Desktop\game\game\game\game.cpp(69,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lomin\Desktop\game\game\game\game.cpp(70,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\lomin\Desktop\game\game\game\game.cpp(75,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lomin\Desktop\game\game\game\game.cpp(75,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lomin\Desktop\game\game\game\game.cpp(76,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lomin\Desktop\game\game\game\game.cpp(151,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lomin\Desktop\game\game\game\game.cpp(152,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lomin\Desktop\game\game\game\game.cpp(177,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lomin\Desktop\game\game\game\game.cpp(179,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lomin\Desktop\game\game\game\game.cpp(184,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lomin\Desktop\game\game\game\game.cpp(184,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lomin\Desktop\game\game\game\game.cpp(227,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lomin\Desktop\game\game\game\game.cpp(40): fatal  error C1075: '{': no matching token found
